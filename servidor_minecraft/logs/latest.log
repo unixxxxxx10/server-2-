@@ -335,3 +335,28 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [21Jul2025 05:15:01.795] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
 [21Jul2025 05:16:53.711] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zilasaur[/127.16.30.111:40569] logged in with entity id 186363 at (854.9765951554601, 103.57632152690682, 1221.8187531310202)
 [21Jul2025 05:16:53.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur joined the game
+[21Jul2025 05:21:11.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 was slain by Cachalot Whale
+[21Jul2025 05:21:11.265] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(723, 51, 1373) minecraft:overworld
+[21Jul2025 05:22:08.760] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[21Jul2025 05:22:08.761] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[21Jul2025 05:22:08.761] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 cast_time_ring
+[21Jul2025 05:22:08.761] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 1 result 0 air
+[21Jul2025 05:22:08.761] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[21Jul2025 05:22:08.761] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[21Jul2025 05:22:08.762] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[21Jul2025 05:22:08.762] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[21Jul2025 05:22:08.762] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[21Jul2025 05:22:08.762] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[21Jul2025 05:22:08.763] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[21Jul2025 05:28:36.516] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved wrongly!
+[21Jul2025 05:29:21.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 has made the advancement [Eye of The Storm]
+[21Jul2025 05:29:35.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 has made the advancement [We do a little trolling...]
+[21Jul2025 05:29:49.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 has made the advancement [No Step on Snake]
+[21Jul2025 05:32:05.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur has completed the challenge [Premium!]
+[21Jul2025 05:35:19.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 has made the advancement [Return to Monke]
+[21Jul2025 05:36:18.902] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xUNIx10 moved too quickly! -13.676164636972544,-3.414487330055053,11.15144394574645
+[21Jul2025 05:38:27.389] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved wrongly!
+[21Jul2025 05:40:35.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 has made the advancement [Rigged from the Start]
+[21Jul2025 05:45:56.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur has made the advancement [We do a little trolling...]
+[21Jul2025 05:46:20.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 has reached the goal [Pumpkin Sir]
+[21Jul2025 05:48:40.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur has made the advancement [It's an Emu!!!]

@@ -90,11 +90,14 @@
       "minecraft:mushroom_fields": "2025-07-17 05:18:55 +0000",
       "minecraft:taiga": "2025-07-16 22:33:58 +0000",
       "minecraft:deep_ocean": "2025-07-17 04:54:18 +0000",
+      "minecraft:eroded_badlands": "2025-07-21 05:34:20 +0000",
       "minecraft:frozen_river": "2025-07-17 05:15:34 +0000",
       "minecraft:cherry_grove": "2025-07-16 23:39:03 +0000",
       "minecraft:sunflower_plains": "2025-07-19 07:37:52 +0000",
       "minecraft:birch_forest": "2025-07-17 04:37:34 +0000",
       "minecraft:windswept_hills": "2025-07-17 04:24:54 +0000",
+      "minecraft:wooded_badlands": "2025-07-21 05:28:28 +0000",
+      "minecraft:badlands": "2025-07-21 05:29:14 +0000",
       "minecraft:beach": "2025-07-17 04:14:18 +0000",
       "minecraft:dark_forest": "2025-07-17 04:38:25 +0000",
       "minecraft:sparse_jungle": "2025-07-17 04:44:09 +0000",
@@ -111,6 +114,7 @@
       "minecraft:deep_cold_ocean": "2025-07-17 04:54:42 +0000",
       "minecraft:ice_spikes": "2025-07-19 07:40:31 +0000",
       "minecraft:frozen_ocean": "2025-07-17 04:58:22 +0000",
+      "minecraft:desert": "2025-07-21 05:28:32 +0000",
       "minecraft:deep_frozen_ocean": "2025-07-17 04:56:14 +0000",
       "minecraft:windswept_forest": "2025-07-17 04:25:01 +0000",
       "minecraft:jungle": "2025-07-17 04:43:58 +0000",
@@ -118,6 +122,7 @@
       "minecraft:old_growth_spruce_taiga": "2025-07-17 04:55:27 +0000",
       "minecraft:snowy_beach": "2025-07-17 05:13:21 +0000",
       "minecraft:windswept_savanna": "2025-07-17 04:25:31 +0000",
+      "minecraft:warm_ocean": "2025-07-21 05:28:54 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-07-19 07:37:00 +0000",
       "minecraft:flower_forest": "2025-07-19 07:38:04 +0000",
       "minecraft:frozen_peaks": "2025-07-17 22:28:11 +0000",
@@ -838,6 +843,7 @@
       "minecraft:creeper": "2025-07-17 00:52:13 +0000",
       "minecraft:phantom": "2025-07-18 06:43:37 +0000",
       "minecraft:witch": "2025-07-18 05:11:21 +0000",
+      "minecraft:husk": "2025-07-21 05:42:05 +0000",
       "minecraft:piglin": "2025-07-19 05:49:42 +0000",
       "minecraft:silverfish": "2025-07-17 03:33:54 +0000",
       "minecraft:enderman": "2025-07-19 00:52:36 +0000",
@@ -4900,6 +4906,7 @@
   },
   "born_in_chaos_v1:squireofthe_dark_lord": {
     "criteria": {
+      "squireofthe_dark_lord_6": "2025-07-21 05:46:48 +0000",
       "squireofthe_dark_lord_0": "2025-07-18 05:27:01 +0000"
     },
     "done": false
@@ -6171,9 +6178,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/henos_banner_patern": {
+    "criteria": {
+      "has_banner_material": "2025-07-21 05:35:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
     "criteria": {
       "has_kelp": "2025-07-21 03:48:42 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/rattlesnake": {
+    "criteria": {
+      "killed": "2025-07-21 05:29:49 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:trickor_treat": {
+    "criteria": {
+      "trickor_treat_0": "2025-07-21 05:46:37 +0000"
+    },
+    "done": false
+  },
+  "prehistoricfauna:prehistoricfauna/general/return_to_monke": {
+    "criteria": {
+      "henos": "2025-07-21 05:35:19 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/tarantula_hawk": {
+    "criteria": {
+      "killed_by": "2025-07-21 05:40:35 +0000"
     },
     "done": true
   },
@@ -6183,15 +6220,81 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/portal_projector": {
+    "criteria": {
+      "has_stone": "2025-07-21 05:35:22 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
     "criteria": {
       "has_diamond_backpack": "2025-07-21 02:28:27 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/henostone_slab": {
+    "criteria": {
+      "has_planks": "2025-07-21 05:35:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/henostone_bricks_dark": {
+    "criteria": {
+      "has_planks": "2025-07-21 05:35:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/henostone_bricks": {
+    "criteria": {
+      "has_planks": "2025-07-21 05:35:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_smoking": {
     "criteria": {
       "has_kelp": "2025-07-21 03:48:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/portal_frame": {
+    "criteria": {
+      "has_stone": "2025-07-21 05:35:22 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:pumpkin_sir": {
+    "criteria": {
+      "pumpkin_sir_0": "2025-07-21 05:46:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/henostone_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-21 05:35:22 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/guster": {
+    "criteria": {
+      "killed": "2025-07-21 05:29:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/henostone_wall": {
+    "criteria": {
+      "has_planks": "2025-07-21 05:35:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/henostone_pillar": {
+    "criteria": {
+      "has_planks": "2025-07-21 05:35:22 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/kangaroo": {
+    "criteria": {
+      "killed": "2025-07-21 05:29:35 +0000"
     },
     "done": true
   },
