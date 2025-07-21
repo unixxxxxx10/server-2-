@@ -277,3 +277,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [21Jul2025 02:56:13.516] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zilasaur[/127.16.30.111:40999] logged in with entity id 7787 at (2944.114486093208, 95.0, 1307.0145142019287)
 [21Jul2025 02:56:13.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur joined the game
 [21Jul2025 03:06:01.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur has reached the goal [Pumpkin Sir]
+[21Jul2025 03:36:00.803] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved wrongly!

@@ -887,7 +887,8 @@
   "prehistoricfauna:prehistoricfauna/general/anti_lorax": {
     "criteria": {
       "taxus": "2025-07-16 22:48:23 +0000",
-      "ginkgo": "2025-07-18 08:04:19 +0000"
+      "ginkgo": "2025-07-18 08:04:19 +0000",
+      "platanites": "2025-07-21 03:31:27 +0000"
     },
     "done": false
   },
