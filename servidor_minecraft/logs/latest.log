@@ -394,3 +394,16 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [21Jul2025 06:40:56.582] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3706, y=65, z=3978} BlockPos{x=-3705, y=66, z=3978}
 [21Jul2025 06:40:56.621] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3706, y=65, z=3978} BlockPos{x=-3705, y=66, z=3978}
 [21Jul2025 06:40:56.666] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3706, y=65, z=3978} BlockPos{x=-3705, y=66, z=3978}
+[21Jul2025 07:10:37.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur has completed the challenge [Death Finds a Way]
+[21Jul2025 07:18:26.176] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xUNIx10 moved too quickly! -2.4014705937847793,14.855273471353257,11.92726616705204
+[21Jul2025 07:19:15.574] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3038, y=67, z=3627} BlockPos{x=-3038, y=65, z=3623}
+[21Jul2025 07:20:16.037] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xUNIx10 moved too quickly! -0.5398023846710203,-1.9704925222429353,-17.99346417939978
+[21Jul2025 07:20:34.372] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xUNIx10 moved too quickly! 13.598589421895213,-4.323690449883685,-12.28021899382793
+[21Jul2025 07:20:42.034] [Worker-Main-122/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[21Jul2025 07:20:42.034] [Worker-Main-122/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[21Jul2025 07:21:59.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 has made the advancement [Respecting the Remnants]
+[21Jul2025 07:36:02.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 has completed the challenge [The Mossy Beast]
+[21Jul2025 07:36:21.278] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved wrongly!
+[21Jul2025 07:38:07.254] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xUNIx10 lost connection: Disconnected
+[21Jul2025 07:38:07.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 left the game
+[21Jul2025 07:40:17.669] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved wrongly!

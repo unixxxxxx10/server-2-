@@ -96,6 +96,7 @@
       "minecraft:sunflower_plains": "2025-07-19 07:37:52 +0000",
       "minecraft:birch_forest": "2025-07-17 04:37:34 +0000",
       "minecraft:windswept_hills": "2025-07-17 04:24:54 +0000",
+      "minecraft:bamboo_jungle": "2025-07-21 07:23:26 +0000",
       "minecraft:wooded_badlands": "2025-07-21 05:28:28 +0000",
       "minecraft:badlands": "2025-07-21 05:29:14 +0000",
       "minecraft:beach": "2025-07-17 04:14:18 +0000",
@@ -5155,9 +5156,10 @@
   },
   "minecraft:adventure/salvage_sherd": {
     "criteria": {
-      "has_sherd": "2025-07-18 08:19:33 +0000"
+      "has_sherd": "2025-07-18 08:19:33 +0000",
+      "desert_pyramid": "2025-07-21 07:21:59 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:nether/get_wither_skull": {
     "criteria": {
@@ -6240,6 +6242,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template": {
+    "criteria": {
+      "has_sentry_armor_trim_smithing_template": "2025-07-21 07:36:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_terracotta": {
     "criteria": {
       "has_terracotta": "2025-07-21 05:56:33 +0000"
@@ -6318,6 +6326,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2025-07-21 07:33:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone": {
     "criteria": {
       "has_redstone_block": "2025-07-21 03:16:14 +0000"
@@ -6363,6 +6377,12 @@
   "minecraft:recipes/building_blocks/henostone_bricks_dark": {
     "criteria": {
       "has_planks": "2025-07-21 05:35:22 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_overgrown_colossus": {
+    "criteria": {
+      "colossus": "2025-07-21 07:36:02 +0000"
     },
     "done": true
   },
@@ -6429,6 +6449,12 @@
   "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
     "criteria": {
       "has_smooth_sandstone": "2025-07-21 06:27:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-07-21 07:36:31 +0000"
     },
     "done": true
   },
