@@ -279,3 +279,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [21Jul2025 03:06:01.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur has reached the goal [Pumpkin Sir]
 [21Jul2025 03:36:00.803] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved wrongly!
 [21Jul2025 03:47:04.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur has completed the challenge [The Dead Sea]
+[21Jul2025 03:51:47.898] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xUNIx10 moved wrongly!
+[21Jul2025 03:52:06.350] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xUNIx10 moved wrongly!
+[21Jul2025 03:52:40.048] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved wrongly!
+[21Jul2025 03:55:37.345] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xUNIx10 moved wrongly!
+[21Jul2025 03:55:50.251] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved wrongly!
+[21Jul2025 04:03:26.245] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xUNIx10 moved wrongly!
+[21Jul2025 04:04:04.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur has reached the goal [Heart Of The Storm]
