@@ -327,3 +327,11 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [21Jul2025 05:07:25.200] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved wrongly!
 [21Jul2025 05:09:47.249] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved wrongly!
 [21Jul2025 05:09:52.116] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved too quickly! -8.999987781047821,4.0,-1.787218519513317
+[21Jul2025 05:13:09.951] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved wrongly!
+[21Jul2025 05:13:17.099] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved wrongly!
+[21Jul2025 05:15:01.745] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur was kicked for floating too long!
+[21Jul2025 05:15:01.746] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur lost connection: Disconnected
+[21Jul2025 05:15:01.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur left the game
+[21Jul2025 05:15:01.795] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[21Jul2025 05:16:53.711] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zilasaur[/127.16.30.111:40569] logged in with entity id 186363 at (854.9765951554601, 103.57632152690682, 1221.8187531310202)
+[21Jul2025 05:16:53.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur joined the game
