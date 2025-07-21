@@ -360,3 +360,37 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [21Jul2025 05:45:56.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur has made the advancement [We do a little trolling...]
 [21Jul2025 05:46:20.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 has reached the goal [Pumpkin Sir]
 [21Jul2025 05:48:40.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur has made the advancement [It's an Emu!!!]
+[21Jul2025 05:53:34.378] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved wrongly!
+[21Jul2025 05:53:37.975] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved wrongly!
+[21Jul2025 05:54:53.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur has made the advancement [The day of the Dead]
+[21Jul2025 06:03:00.612] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xUNIx10 moved wrongly!
+[21Jul2025 06:04:07.776] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved wrongly!
+[21Jul2025 06:05:09.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur has made the advancement [Undead Guard]
+[21Jul2025 06:06:40.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur died because of Possessed Paladin
+[21Jul2025 06:06:40.047] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-1917, 87, 4541) minecraft:overworld
+[21Jul2025 06:06:58.119] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[21Jul2025 06:06:58.119] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[21Jul2025 06:06:58.119] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[21Jul2025 06:06:58.120] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 backpack
+[21Jul2025 06:06:58.120] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[21Jul2025 06:06:58.120] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[21Jul2025 06:07:00.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur has completed the challenge [The Fallen Knight]
+[21Jul2025 06:13:27.055] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved wrongly!
+[21Jul2025 06:13:41.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur has made the advancement [Another Desert Temple!]
+[21Jul2025 06:16:40.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur has made the advancement [No Step on Snake]
+[21Jul2025 06:20:20.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 has made the advancement [Desert Pyramid Revamped]
+[21Jul2025 06:21:07.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur has made the advancement [Rigged from the Start]
+[21Jul2025 06:22:03.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 has made the advancement [Another Desert Temple!]
+[21Jul2025 06:24:34.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur has made the advancement [Sandstone Bomb]
+[21Jul2025 06:25:31.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 has completed the challenge [Ancient War Machine]
+[21Jul2025 06:26:52.593] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur lost connection: Disconnected
+[21Jul2025 06:26:52.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur left the game
+[21Jul2025 06:28:00.060] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zilasaur[/127.16.30.111:44777] logged in with entity id 259899 at (-3142.4501283993914, 69.0, 3864.735493147841)
+[21Jul2025 06:28:00.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur joined the game
+[21Jul2025 06:28:56.592] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved wrongly!
+[21Jul2025 06:30:24.727] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved wrongly!
+[21Jul2025 06:30:35.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur has made the advancement [Eye of The Storm]
+[21Jul2025 06:31:01.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur has made the advancement [Desert Pyramid Revamped]
+[21Jul2025 06:40:56.582] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3706, y=65, z=3978} BlockPos{x=-3705, y=66, z=3978}
+[21Jul2025 06:40:56.621] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3706, y=65, z=3978} BlockPos{x=-3705, y=66, z=3978}
+[21Jul2025 06:40:56.666] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3706, y=65, z=3978} BlockPos{x=-3705, y=66, z=3978}
