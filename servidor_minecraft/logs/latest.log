@@ -320,3 +320,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [21Jul2025 04:52:38.948] [Server thread/INFO] [superlord.prehistoricfauna.PrehistoricFauna/]: BOAT ENTITY: net.minecraft.network.syncher.SynchedEntityData@682c66a9
 [21Jul2025 04:58:44.605] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved wrongly!
 [21Jul2025 04:58:49.200] [Server thread/INFO] [superlord.prehistoricfauna.PrehistoricFauna/]: BOAT ENTITY: net.minecraft.network.syncher.SynchedEntityData@485e526d
+[21Jul2025 05:00:59.434] [Worker-Main-121/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-50, y=-58, z=117}
+[21Jul2025 05:01:20.080] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved wrongly!
+[21Jul2025 05:03:10.505] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=650, y=68, z=359} BlockPos{x=651, y=68, z=360}
+[21Jul2025 05:04:54.524] [Worker-Main-122/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-50, y=-58, z=117}
+[21Jul2025 05:07:25.200] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved wrongly!
+[21Jul2025 05:09:47.249] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved wrongly!
+[21Jul2025 05:09:52.116] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved too quickly! -8.999987781047821,4.0,-1.787218519513317

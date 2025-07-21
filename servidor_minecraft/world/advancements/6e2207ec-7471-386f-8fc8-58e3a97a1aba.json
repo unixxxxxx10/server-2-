@@ -1436,6 +1436,7 @@
     "criteria": {
       "podozamites": "2025-07-19 05:50:23 +0000",
       "dryophyllum": "2025-07-19 08:08:49 +0000",
+      "metasequoia": "2025-07-21 05:02:28 +0000",
       "trochodendroides": "2025-07-19 05:19:44 +0000",
       "ginkgo": "2025-07-16 23:14:32 +0000",
       "taxus": "2025-07-19 05:43:00 +0000",
@@ -5005,6 +5006,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/metasequoia_planks": {
+    "criteria": {
+      "has_logs": "2025-07-21 05:02:28 +0000"
+    },
+    "done": true
+  },
   "aquamirae:adventure/obtain_frozen_key": {
     "criteria": {
       "frozen_key": "2025-07-21 03:47:04 +0000"
@@ -5062,6 +5069,12 @@
   "minecraft:recipes/building_blocks/packed_loam": {
     "criteria": {
       "has_stone": "2025-07-21 04:45:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/metasequoia_wood": {
+    "criteria": {
+      "has_log": "2025-07-21 05:02:28 +0000"
     },
     "done": true
   },
