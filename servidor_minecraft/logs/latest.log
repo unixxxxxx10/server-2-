@@ -278,3 +278,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [21Jul2025 02:56:13.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur joined the game
 [21Jul2025 03:06:01.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur has reached the goal [Pumpkin Sir]
 [21Jul2025 03:36:00.803] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved wrongly!
+[21Jul2025 03:47:04.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur has completed the challenge [The Dead Sea]
