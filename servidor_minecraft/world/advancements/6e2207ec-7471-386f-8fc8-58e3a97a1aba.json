@@ -5589,6 +5589,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/soul_vulture": {
+    "criteria": {
+      "killed_by": "2025-07-22 10:11:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_orange_carpet": {
     "criteria": {
       "has_needed_dye": "2025-07-22 08:50:59 +0000"
@@ -5655,6 +5661,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-07-22 10:08:31 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/bat_helmet": {
     "criteria": {
       "has_red_dye": "2025-07-22 08:51:44 +0000"
@@ -5670,6 +5682,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-07-22 09:58:49 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:locate_skeletosaurus_nest": {
+    "criteria": {
+      "nest": "2025-07-22 10:04:26 +0000"
     },
     "done": true
   },
@@ -5823,6 +5841,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-07-22 10:08:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_yellow_dye": "2025-07-22 08:51:24 +0000"
@@ -5844,6 +5868,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-07-22 09:59:05 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_skeletosaurus": {
+    "criteria": {
+      "skeletosaurus": "2025-07-22 10:05:12 +0000"
     },
     "done": true
   },

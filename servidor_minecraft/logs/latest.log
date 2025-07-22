@@ -365,3 +365,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [22Jul2025 10:03:46.067] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved wrongly!
 [22Jul2025 10:04:22.027] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved wrongly!
 [22Jul2025 10:04:26.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur has made the advancement [Long Time Ago]
+[22Jul2025 10:05:12.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur has completed the challenge [The Ancient Skeleton]
+[22Jul2025 10:05:51.774] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved wrongly!
+[22Jul2025 10:10:48.212] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of zilasaur) moved wrongly! 0.34899660514588504
+[22Jul2025 10:10:48.278] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of zilasaur) moved wrongly! 0.458153906209418
+[22Jul2025 10:10:48.313] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of zilasaur) moved wrongly! 0.5638762045762178
+[22Jul2025 10:11:04.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur has made the advancement [Fetch Me Their Souls!]
+[22Jul2025 10:12:49.276] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
