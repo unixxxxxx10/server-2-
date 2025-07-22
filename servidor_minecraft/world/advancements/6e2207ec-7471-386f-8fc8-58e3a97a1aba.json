@@ -117,6 +117,7 @@
       "minecraft:deep_frozen_ocean": "2025-07-16 23:36:27 +0000",
       "minecraft:windswept_forest": "2025-07-21 05:26:08 +0000",
       "minecraft:ocean": "2025-07-18 01:04:21 +0000",
+      "minecraft:jungle": "2025-07-22 04:45:16 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-07-18 01:14:04 +0000",
       "minecraft:snowy_beach": "2025-07-16 23:34:00 +0000",
       "minecraft:warm_ocean": "2025-07-21 06:11:35 +0000",
@@ -5348,13 +5349,25 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/orange_glazed_terracotta": {
+  "alexsmobs:alexsmobs/guster": {
     "criteria": {
-      "has_orange_terracotta": "2025-07-21 07:36:33 +0000"
+      "killed_by": "2025-07-21 06:30:35 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_cursed_pyramid": {
+    "criteria": {
+      "pyramid": "2025-07-21 06:31:01 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/cut_sandstone_slab": {
+    "criteria": {
+      "has_cut_sandstone": "2025-07-21 06:32:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
     "criteria": {
       "has_cut_sandstone": "2025-07-21 06:32:20 +0000"
     },
@@ -5366,27 +5379,39 @@
     },
     "done": false
   },
-  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
-    "criteria": {
-      "has_cut_sandstone": "2025-07-21 06:32:20 +0000"
-    },
-    "done": true
-  },
   "cataclysm:kill_remnant": {
     "criteria": {
       "ignis": "2025-07-21 07:10:37 +0000"
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/guster": {
+  "minecraft:recipes/decorations/orange_glazed_terracotta": {
     "criteria": {
-      "killed_by": "2025-07-21 06:30:35 +0000"
+      "has_orange_terracotta": "2025-07-21 07:36:33 +0000"
     },
     "done": true
   },
-  "cataclysm:find_cursed_pyramid": {
+  "alexsmobs:alexsmobs/stomp_leafcutter_anthill": {
     "criteria": {
-      "pyramid": "2025-07-21 06:31:01 +0000"
+      "ex": "2025-07-22 04:40:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-07-22 04:40:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-07-22 04:40:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-07-22 04:40:36 +0000"
     },
     "done": true
   },
