@@ -5416,7 +5416,13 @@
   },
   "born_in_chaos_v1:trickor_treat": {
     "criteria": {
-      "trickor_treat_0": "2025-07-22 07:33:59 +0000"
+      "trickor_treat_0": "2025-07-22 07:33:59 +0000",
+      "trickor_treat_2": "2025-07-22 08:02:46 +0000",
+      "trickor_treat_3": "2025-07-22 08:02:42 +0000",
+      "trickor_treat_4": "2025-07-22 08:02:36 +0000",
+      "trickor_treat_5": "2025-07-22 08:02:36 +0000",
+      "trickor_treat_6": "2025-07-22 08:02:36 +0000",
+      "trickor_treat_7": "2025-07-22 08:02:36 +0000"
     },
     "done": false
   },
@@ -5459,6 +5465,12 @@
   "minecraft:recipes/building_blocks/birch_planks": {
     "criteria": {
       "has_logs": "2025-07-22 06:55:52 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dark_forging": {
+    "criteria": {
+      "dark_forging_0": "2025-07-22 08:12:26 +0000"
     },
     "done": true
   },

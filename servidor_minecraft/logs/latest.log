@@ -483,3 +483,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [22Jul2025 07:54:57.954] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xUNIx10[/127.16.30.111:37031] logged in with entity id 87733 at (855.9475488738093, 72.0, 1191.6451979015683)
 [22Jul2025 07:54:57.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 joined the game
 [22Jul2025 07:58:47.349] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xUNIx10 moved too quickly! -2.6570235538742963,25.75843557822094,-9.842788802079326
+[22Jul2025 08:05:25.199] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xUNIx10 moved too quickly! 8.540457980464339,2.3363324716665232,-23.651947509693542
+[22Jul2025 08:06:14.205] [Worker-Main-185/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[22Jul2025 08:06:14.206] [Worker-Main-185/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[22Jul2025 08:06:21.598] [Worker-Main-183/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[22Jul2025 08:06:21.599] [Worker-Main-183/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[22Jul2025 08:12:26.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur has made the advancement [Dark Forging]
