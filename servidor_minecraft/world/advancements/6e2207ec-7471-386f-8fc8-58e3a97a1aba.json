@@ -615,15 +615,19 @@
       "minecraft:pillager": "2025-07-16 23:40:00 +0000",
       "minecraft:skeleton": "2025-07-16 22:54:47 +0000",
       "minecraft:ravager": "2025-07-22 07:05:48 +0000",
+      "minecraft:ghast": "2025-07-22 09:28:16 +0000",
       "minecraft:vindicator": "2025-07-16 23:40:19 +0000",
       "minecraft:spider": "2025-07-16 23:22:22 +0000",
+      "minecraft:piglin_brute": "2025-07-22 09:57:39 +0000",
       "minecraft:creeper": "2025-07-17 22:20:16 +0000",
       "minecraft:evoker": "2025-07-18 09:55:26 +0000",
       "minecraft:slime": "2025-07-19 04:33:05 +0000",
       "minecraft:phantom": "2025-07-22 06:57:03 +0000",
+      "minecraft:zombified_piglin": "2025-07-22 09:29:24 +0000",
       "minecraft:witch": "2025-07-19 04:51:30 +0000",
       "minecraft:husk": "2025-07-21 06:21:55 +0000",
       "minecraft:cave_spider": "2025-07-17 22:09:33 +0000",
+      "minecraft:piglin": "2025-07-22 09:56:53 +0000",
       "minecraft:stray": "2025-07-18 05:47:28 +0000",
       "minecraft:enderman": "2025-07-19 03:50:32 +0000",
       "minecraft:vex": "2025-07-22 06:00:38 +0000",
@@ -3553,10 +3557,13 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2025-07-22 09:39:53 +0000",
+      "minecraft:nether_wastes": "2025-07-22 09:23:47 +0000",
+      "minecraft:soul_sand_valley": "2025-07-22 09:32:01 +0000",
       "minecraft:basalt_deltas": "2025-07-18 00:45:47 +0000",
       "minecraft:warped_forest": "2025-07-18 00:45:50 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:story/lava_bucket": {
     "criteria": {
@@ -5534,6 +5541,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-07-22 09:58:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-07-22 09:58:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_candle": {
     "criteria": {
       "has_orange_dye": "2025-07-22 08:50:59 +0000"
@@ -5543,6 +5562,12 @@
   "minecraft:recipes/misc/cyan_dye": {
     "criteria": {
       "has_blue_dye": "2025-07-22 08:52:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-07-22 09:59:05 +0000"
     },
     "done": true
   },
@@ -5570,6 +5595,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blackstone_wall": {
+    "criteria": {
+      "has_blackstone": "2025-07-22 09:59:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
     "criteria": {
       "has_red_dye": "2025-07-22 08:51:44 +0000"
@@ -5579,6 +5610,30 @@
   "minecraft:recipes/decorations/yellow_candle": {
     "criteria": {
       "has_yellow_dye": "2025-07-22 08:51:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-07-22 09:58:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-07-22 09:59:05 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:locate_lava_eater": {
+    "criteria": {
+      "lava_eater": "2025-07-22 09:34:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-07-22 09:59:05 +0000"
     },
     "done": true
   },
@@ -5606,6 +5661,48 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-07-22 09:59:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-07-22 09:58:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-07-22 09:59:05 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_withered_abomination": {
+    "criteria": {
+      "abomination": "2025-07-22 09:30:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-07-22 09:59:05 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_lava_eater": {
+    "criteria": {
+      "ambusher": "2025-07-22 09:35:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-07-22 09:59:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_blue_wool": {
     "criteria": {
       "has_needed_dye": "2025-07-22 08:52:58 +0000"
@@ -5630,9 +5727,33 @@
     },
     "done": true
   },
+  "cataclysm:find_soul_black_smith": {
+    "criteria": {
+      "blacksmith": "2025-07-22 09:23:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs": {
+    "criteria": {
+      "has_blackstone": "2025-07-22 09:59:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-07-22 09:59:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_red_wool": {
     "criteria": {
       "has_needed_dye": "2025-07-22 08:51:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-07-22 09:59:05 +0000"
     },
     "done": true
   },
@@ -5660,15 +5781,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone": {
+    "criteria": {
+      "has_blackstone": "2025-07-22 09:59:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_candle": {
     "criteria": {
       "has_red_dye": "2025-07-22 08:51:44 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blackstone_slab": {
+    "criteria": {
+      "has_blackstone": "2025-07-22 09:59:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2025-07-22 09:58:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_yellow_carpet": {
     "criteria": {
       "has_needed_dye": "2025-07-22 08:51:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-07-22 09:59:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-07-22 09:58:49 +0000"
     },
     "done": true
   },
@@ -5681,6 +5832,24 @@
   "minecraft:recipes/building_blocks/dye_orange_wool": {
     "criteria": {
       "has_needed_dye": "2025-07-22 08:50:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-07-22 09:58:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-07-22 09:59:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-07-22 09:59:27 +0000"
     },
     "done": true
   },
@@ -5702,9 +5871,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-07-22 09:59:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-07-22 09:58:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_blue_bed": {
     "criteria": {
       "has_needed_dye": "2025-07-22 08:52:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-07-22 09:57:03 +0000"
     },
     "done": true
   },
@@ -5720,9 +5907,27 @@
     },
     "done": true
   },
+  "legendary_monsters:locate_soul_fortress_remains": {
+    "criteria": {
+      "soul_fortress": "2025-07-22 09:26:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-07-22 09:59:27 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/bat_boots": {
     "criteria": {
       "has_red_dye": "2025-07-22 08:51:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-07-22 09:59:05 +0000"
     },
     "done": true
   },

@@ -302,3 +302,66 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [22Jul2025 09:20:28.642] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved wrongly!
 [22Jul2025 09:21:31.887] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved wrongly!
 [22Jul2025 09:22:24.607] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2889ms or 57 ticks behind
+[22Jul2025 09:22:55.738] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of zilasaur) moved wrongly! 0.3839343414800567
+[22Jul2025 09:22:55.796] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of zilasaur) moved wrongly! 0.5961300307154431
+[22Jul2025 09:22:55.896] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of zilasaur) moved wrongly! 0.8212829143637634
+[22Jul2025 09:22:55.944] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of zilasaur) moved wrongly! 1.0322422482443585
+[22Jul2025 09:22:55.956] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of zilasaur) moved wrongly! 1.056003087850229
+[22Jul2025 09:23:04.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur has made the advancement [Where the Monstrous be Forged]
+[22Jul2025 09:25:53.741] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved wrongly!
+[22Jul2025 09:26:09.901] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved wrongly!
+[22Jul2025 09:26:13.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur has made the advancement [The Soul Fortress]
+[22Jul2025 09:29:10.493] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1329, y=109, z=1363}
+[22Jul2025 09:29:16.698] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1329, y=109, z=1363}
+[22Jul2025 09:30:17.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur has completed the challenge [The Soul Eater]
+[22Jul2025 09:31:42.119] [Worker-Main-49/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[22Jul2025 09:31:42.119] [Worker-Main-49/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[22Jul2025 09:31:57.281] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/47306, l='ServerLevel[world]', x=2884.37, y=83.00, z=-1312.93] died, message: 'Villager suffocated in a wall'
+[22Jul2025 09:34:13.398] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[22Jul2025 09:34:27.367] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved wrongly!
+[22Jul2025 09:34:32.178] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved wrongly!
+[22Jul2025 09:34:41.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur has made the advancement [A Voltanic Place]
+[22Jul2025 09:35:32.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur has completed the challenge [Fiery Beast]
+[22Jul2025 09:37:03.310] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of zilasaur) moved wrongly! 0.5037339769949085
+[22Jul2025 09:37:03.350] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of zilasaur) moved wrongly! 1.2178700493118413
+[22Jul2025 09:37:03.398] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of zilasaur) moved wrongly! 1.8753783337799632
+[22Jul2025 09:37:03.446] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of zilasaur) moved wrongly! 2.5073525279348132
+[22Jul2025 09:37:03.497] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of zilasaur) moved wrongly! 3.1426543845828974
+[22Jul2025 09:37:03.546] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of zilasaur) moved wrongly! 3.7812387879808966
+[22Jul2025 09:37:03.595] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of zilasaur) moved wrongly! 3.808620179102718
+[22Jul2025 09:37:04.250] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of zilasaur) moved wrongly! 0.2961261712413261
+[22Jul2025 09:37:04.301] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of zilasaur) moved wrongly! 0.45845312453548104
+[22Jul2025 09:37:04.347] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of zilasaur) moved wrongly! 0.6318473166439844
+[22Jul2025 09:37:04.801] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of zilasaur) moved wrongly! 0.32174175990007825
+[22Jul2025 09:38:13.245] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of zilasaur) moved wrongly! 0.32297329099233707
+[22Jul2025 09:38:13.296] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of zilasaur) moved wrongly! 0.5092940282274583
+[22Jul2025 09:38:13.341] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of zilasaur) moved wrongly! 0.7115543490768914
+[22Jul2025 09:38:13.396] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of zilasaur) moved wrongly! 0.929295553281662
+[22Jul2025 09:38:13.445] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of zilasaur) moved wrongly! 1.1620646443443547
+[22Jul2025 09:38:13.546] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of zilasaur) moved wrongly! 0.26150332402130516
+[22Jul2025 09:38:13.597] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of zilasaur) moved wrongly! 0.27224919450250695
+[22Jul2025 09:38:13.650] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of zilasaur) moved wrongly! 0.280088537834672
+[22Jul2025 09:38:28.341] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved wrongly!
+[22Jul2025 09:39:47.503] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of zilasaur) moved too quickly! 4.87001962230795,-1.822890173741598E-5,-8.974709345379779
+[22Jul2025 09:39:47.504] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of zilasaur) moved too quickly! 5.2974055223068035,-1.974802864879166E-5,-9.711081343601563
+[22Jul2025 09:39:53.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur has completed the challenge [Hot Tourist Destinations]
+[22Jul2025 09:40:49.005] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved wrongly!
+[22Jul2025 09:44:19.505] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved wrongly!
+[22Jul2025 09:44:38.206] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved wrongly!
+[22Jul2025 09:47:39.002] [Worker-Main-49/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[22Jul2025 09:47:39.004] [Worker-Main-49/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[22Jul2025 09:47:41.107] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[22Jul2025 09:47:41.108] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[22Jul2025 09:48:07.682] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/69420, l='ServerLevel[world]', x=3419.72, y=123.00, z=783.63] died, message: 'Villager suffocated in a wall'
+[22Jul2025 09:49:32.447] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved wrongly!
+[22Jul2025 09:52:49.451] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved wrongly!
+[22Jul2025 09:56:47.410] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved wrongly!
+[22Jul2025 09:57:03.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur has made the advancement [Those Were the Days]
+[22Jul2025 09:57:08.137] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xUNIx10 lost connection: Disconnected
+[22Jul2025 09:57:08.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 left the game
+[22Jul2025 09:58:00.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur has made the advancement [War Pigs]
+[22Jul2025 10:00:37.557] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved wrongly!
+[22Jul2025 10:00:50.010] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved wrongly!
+[22Jul2025 10:03:46.067] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved wrongly!
+[22Jul2025 10:04:22.027] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved wrongly!
+[22Jul2025 10:04:26.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur has made the advancement [Long Time Ago]
