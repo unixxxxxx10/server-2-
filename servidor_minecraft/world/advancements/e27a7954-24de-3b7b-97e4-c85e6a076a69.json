@@ -4912,6 +4912,7 @@
   "born_in_chaos_v1:squireofthe_dark_lord": {
     "criteria": {
       "squireofthe_dark_lord_6": "2025-07-21 05:46:48 +0000",
+      "squireofthe_dark_lord_5": "2025-07-22 09:17:16 +0000",
       "squireofthe_dark_lord_0": "2025-07-18 05:27:01 +0000"
     },
     "done": false
@@ -6517,6 +6518,12 @@
   "minecraft:recipes/misc/sentry_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2025-07-21 07:36:31 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:my_size": {
+    "criteria": {
+      "my_size_0": "2025-07-22 09:17:16 +0000"
     },
     "done": true
   },
