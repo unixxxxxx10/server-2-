@@ -461,3 +461,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [22Jul2025 06:23:55.326] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/54475, l='ServerLevel[world]', x=-3649.48, y=70.00, z=4951.58] died, message: 'Farmer cooked in zilasaur's fiery field'
 [22Jul2025 06:31:33.593] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved wrongly!
 [22Jul2025 06:35:03.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur has made the advancement [Chompy]
+[22Jul2025 06:44:29.488] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved wrongly!
+[22Jul2025 06:50:22.732] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/66395, l='ServerLevel[world]', x=-954.57, y=66.00, z=2826.70] was struck by lightning LightningBolt['Lightning Bolt'/68025, l='ServerLevel[world]', x=-956.50, y=66.00, z=2825.50].
