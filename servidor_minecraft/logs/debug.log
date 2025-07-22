@@ -2791,3 +2791,15 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [22Jul2025 07:18:43.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur has made the advancement [Dripstone Everywhere]
 [22Jul2025 07:19:09.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur has made the advancement [An Imposter]
 [22Jul2025 07:19:28.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur has made the advancement [A Disgusting Worm]
+[22Jul2025 07:21:54.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur has completed the challenge [The One - Armed Monster]
+[22Jul2025 07:22:29.242] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Jul2025 07:22:29.252] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Jul2025 07:23:30.943] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[22Jul2025 07:27:29.243] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Jul2025 07:27:29.252] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Jul2025 07:28:20.655] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved wrongly!
+[22Jul2025 07:32:29.245] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Jul2025 07:32:29.254] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Jul2025 07:37:29.245] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Jul2025 07:37:29.256] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Jul2025 07:39:13.396] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved wrongly!

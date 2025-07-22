@@ -5402,6 +5402,24 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2025-07-22 07:28:48 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:locate_ancient_stronghold": {
+    "criteria": {
+      "ancient_stronghold": "2025-07-22 07:18:43 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:trickor_treat": {
+    "criteria": {
+      "trickor_treat_0": "2025-07-22 07:33:59 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_log": "2025-07-22 06:55:52 +0000"
@@ -5426,6 +5444,18 @@
     },
     "done": true
   },
+  "legendary_monsters:defeat_the_ancient_guardian": {
+    "criteria": {
+      "guardian": "2025-07-22 07:21:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2025-07-22 07:28:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_planks": {
     "criteria": {
       "has_logs": "2025-07-22 06:55:52 +0000"
@@ -5438,6 +5468,12 @@
     },
     "done": true
   },
+  "legendary_monsters:defeat_spiky_bug": {
+    "criteria": {
+      "spiky_bug": "2025-07-22 07:19:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dark_oak_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2025-07-22 06:55:43 +0000"
@@ -5447,6 +5483,12 @@
   "minecraft:recipes/building_blocks/glowstone": {
     "criteria": {
       "has_glowstone_dust": "2025-07-22 07:07:59 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_ambusher": {
+    "criteria": {
+      "ambusher": "2025-07-22 07:19:09 +0000"
     },
     "done": true
   },
