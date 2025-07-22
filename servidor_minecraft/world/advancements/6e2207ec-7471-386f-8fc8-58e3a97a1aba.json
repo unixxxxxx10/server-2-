@@ -614,11 +614,13 @@
     "criteria": {
       "minecraft:pillager": "2025-07-16 23:40:00 +0000",
       "minecraft:skeleton": "2025-07-16 22:54:47 +0000",
+      "minecraft:ravager": "2025-07-22 07:05:48 +0000",
       "minecraft:vindicator": "2025-07-16 23:40:19 +0000",
       "minecraft:spider": "2025-07-16 23:22:22 +0000",
       "minecraft:creeper": "2025-07-17 22:20:16 +0000",
       "minecraft:evoker": "2025-07-18 09:55:26 +0000",
       "minecraft:slime": "2025-07-19 04:33:05 +0000",
+      "minecraft:phantom": "2025-07-22 06:57:03 +0000",
       "minecraft:witch": "2025-07-19 04:51:30 +0000",
       "minecraft:husk": "2025-07-21 06:21:55 +0000",
       "minecraft:cave_spider": "2025-07-17 22:09:33 +0000",
@@ -5393,6 +5395,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-07-22 06:55:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-07-22 06:55:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jack_o_lantern": {
     "criteria": {
       "has_carved_pumpkin": "2025-07-22 06:15:52 +0000"
@@ -5405,9 +5419,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-07-22 06:55:52 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/crocodile": {
     "criteria": {
       "killed_by": "2025-07-22 06:35:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-07-22 06:55:43 +0000"
     },
     "done": true
   },

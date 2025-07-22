@@ -463,3 +463,11 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [22Jul2025 06:35:03.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur has made the advancement [Chompy]
 [22Jul2025 06:44:29.488] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved wrongly!
 [22Jul2025 06:50:22.732] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/66395, l='ServerLevel[world]', x=-954.57, y=66.00, z=2826.70] was struck by lightning LightningBolt['Lightning Bolt'/68025, l='ServerLevel[world]', x=-956.50, y=66.00, z=2825.50].
+[22Jul2025 06:56:15.928] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved wrongly!
+[22Jul2025 07:02:30.393] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved wrongly!
+[22Jul2025 07:04:13.728] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cleric'/74052, l='ServerLevel[world]', x=-802.11, y=72.88, z=1201.59] died, message: 'Cleric was slain by Vindicator'
+[22Jul2025 07:05:15.731] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/73986, l='ServerLevel[world]', x=-776.80, y=63.94, z=1224.44] died, message: 'Leatherworker was slain by Ravager'
+[22Jul2025 07:05:39.674] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/74053, l='ServerLevel[world]', x=-802.70, y=72.88, z=1201.30] died, message: 'Villager was slain by Vindicator'
+[22Jul2025 07:08:38.881] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/74133, l='ServerLevel[world]', x=-844.68, y=70.82, z=1237.67] died, message: 'Leatherworker was slain by Vindicator'
+[22Jul2025 07:10:24.274] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/74016, l='ServerLevel[world]', x=-799.30, y=73.56, z=1273.70] died, message: 'Farmer was slain by Vindicator'
+[22Jul2025 07:10:26.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur has reached the goal [Dark Creator]
