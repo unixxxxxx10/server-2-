@@ -471,3 +471,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [22Jul2025 07:08:38.881] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/74133, l='ServerLevel[world]', x=-844.68, y=70.82, z=1237.67] died, message: 'Leatherworker was slain by Vindicator'
 [22Jul2025 07:10:24.274] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/74016, l='ServerLevel[world]', x=-799.30, y=73.56, z=1273.70] died, message: 'Farmer was slain by Vindicator'
 [22Jul2025 07:10:26.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur has reached the goal [Dark Creator]
+[22Jul2025 07:14:33.650] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved wrongly!
+[22Jul2025 07:17:35.301] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved wrongly!
+[22Jul2025 07:17:39.548] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved wrongly!
+[22Jul2025 07:18:43.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur has made the advancement [Dripstone Everywhere]
+[22Jul2025 07:19:09.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur has made the advancement [An Imposter]
+[22Jul2025 07:19:28.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur has made the advancement [A Disgusting Worm]
