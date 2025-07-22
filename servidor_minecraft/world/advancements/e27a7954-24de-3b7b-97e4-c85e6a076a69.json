@@ -6176,21 +6176,15 @@
     },
     "done": true
   },
-  "legendary_monsters:defeat_dune_sentinel": {
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
     "criteria": {
-      "ambusher": "2025-07-21 06:25:31 +0000"
+      "has_diamond_backpack": "2025-07-21 02:28:27 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/lime_terracotta": {
+  "minecraft:recipes/redstone/redstone": {
     "criteria": {
-      "has_terracotta": "2025-07-21 05:56:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/light_gray_terracotta": {
-    "criteria": {
-      "has_terracotta": "2025-07-21 05:56:33 +0000"
+      "has_redstone_block": "2025-07-21 03:16:14 +0000"
     },
     "done": true
   },
@@ -6200,33 +6194,27 @@
     },
     "done": true
   },
-  "legendary_monsters:locate_ruined_pyramid": {
-    "criteria": {
-      "ruined_pyramid": "2025-07-21 06:22:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/henos_banner_patern": {
-    "criteria": {
-      "has_banner_material": "2025-07-21 05:35:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/dune_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2025-07-21 06:17:36 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
     "criteria": {
       "has_kelp": "2025-07-21 03:48:42 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
     "criteria": {
-      "has_smooth_sandstone": "2025-07-21 06:27:26 +0000"
+      "has_kelp": "2025-07-21 03:48:42 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/guster": {
+    "criteria": {
+      "killed": "2025-07-21 05:29:21 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/kangaroo": {
+    "criteria": {
+      "killed": "2025-07-21 05:29:35 +0000"
     },
     "done": true
   },
@@ -6236,27 +6224,75 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/orange_glazed_terracotta": {
+  "prehistoricfauna:prehistoricfauna/general/return_to_monke": {
     "criteria": {
-      "has_orange_terracotta": "2025-07-21 06:18:20 +0000"
+      "henos": "2025-07-21 05:35:19 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/sentry_armor_trim_smithing_template": {
+  "minecraft:recipes/misc/henos_banner_patern": {
     "criteria": {
-      "has_sentry_armor_trim_smithing_template": "2025-07-21 07:36:31 +0000"
+      "has_banner_material": "2025-07-21 05:35:22 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/red_terracotta": {
+  "minecraft:recipes/misc/portal_projector": {
     "criteria": {
-      "has_terracotta": "2025-07-21 05:56:33 +0000"
+      "has_stone": "2025-07-21 05:35:22 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/black_terracotta": {
+  "minecraft:recipes/building_blocks/henostone_slab": {
     "criteria": {
-      "has_terracotta": "2025-07-21 05:56:33 +0000"
+      "has_planks": "2025-07-21 05:35:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/henostone_bricks_dark": {
+    "criteria": {
+      "has_planks": "2025-07-21 05:35:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/henostone_bricks": {
+    "criteria": {
+      "has_planks": "2025-07-21 05:35:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/portal_frame": {
+    "criteria": {
+      "has_stone": "2025-07-21 05:35:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/henostone_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-21 05:35:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/henostone_wall": {
+    "criteria": {
+      "has_planks": "2025-07-21 05:35:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/henostone_pillar": {
+    "criteria": {
+      "has_planks": "2025-07-21 05:35:22 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/tarantula_hawk": {
+    "criteria": {
+      "killed_by": "2025-07-21 05:40:35 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:pumpkin_sir": {
+    "criteria": {
+      "pumpkin_sir_0": "2025-07-21 05:46:20 +0000"
     },
     "done": true
   },
@@ -6272,27 +6308,33 @@
     },
     "done": false
   },
-  "minecraft:recipes/building_blocks/pink_terracotta": {
+  "minecraft:recipes/building_blocks/lime_terracotta": {
     "criteria": {
       "has_terracotta": "2025-07-21 05:56:33 +0000"
     },
     "done": true
   },
-  "prehistoricfauna:prehistoricfauna/general/return_to_monke": {
+  "minecraft:recipes/building_blocks/light_gray_terracotta": {
     "criteria": {
-      "henos": "2025-07-21 05:35:19 +0000"
+      "has_terracotta": "2025-07-21 05:56:33 +0000"
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/tarantula_hawk": {
+  "minecraft:recipes/building_blocks/red_terracotta": {
     "criteria": {
-      "killed_by": "2025-07-21 05:40:35 +0000"
+      "has_terracotta": "2025-07-21 05:56:33 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
+  "minecraft:recipes/building_blocks/black_terracotta": {
     "criteria": {
-      "has_smooth_sandstone": "2025-07-21 06:27:26 +0000"
+      "has_terracotta": "2025-07-21 05:56:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-07-21 05:56:33 +0000"
     },
     "done": true
   },
@@ -6308,12 +6350,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
-    "criteria": {
-      "has_cut_sandstone": "2025-07-21 06:17:55 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/yellow_terracotta": {
     "criteria": {
       "has_terracotta": "2025-07-21 05:56:33 +0000"
@@ -6323,108 +6359,6 @@
   "minecraft:recipes/building_blocks/purple_terracotta": {
     "criteria": {
       "has_terracotta": "2025-07-21 05:56:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/green_dye": {
-    "criteria": {
-      "has_cactus": "2025-07-21 07:33:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/redstone": {
-    "criteria": {
-      "has_redstone_block": "2025-07-21 03:16:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
-    "criteria": {
-      "has_cut_sandstone": "2025-07-21 06:17:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/portal_projector": {
-    "criteria": {
-      "has_stone": "2025-07-21 05:35:22 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
-    "criteria": {
-      "has_diamond_backpack": "2025-07-21 02:28:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/henostone_slab": {
-    "criteria": {
-      "has_planks": "2025-07-21 05:35:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_petrified_wood": {
-    "criteria": {
-      "has_stone": "2025-07-21 06:09:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/blue_glazed_terracotta": {
-    "criteria": {
-      "has_blue_terracotta": "2025-07-21 06:25:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/henostone_bricks_dark": {
-    "criteria": {
-      "has_planks": "2025-07-21 05:35:22 +0000"
-    },
-    "done": true
-  },
-  "legendary_monsters:defeat_overgrown_colossus": {
-    "criteria": {
-      "colossus": "2025-07-21 07:36:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/henostone_bricks": {
-    "criteria": {
-      "has_planks": "2025-07-21 05:35:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/repeater": {
-    "criteria": {
-      "has_redstone_torch": "2025-07-21 06:24:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
-    "criteria": {
-      "has_smooth_sandstone": "2025-07-21 06:27:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/dried_kelp_from_smoking": {
-    "criteria": {
-      "has_kelp": "2025-07-21 03:48:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/dune_armor_trim_smithing_template": {
-    "criteria": {
-      "has_dune_armor_trim_smithing_template": "2025-07-21 06:17:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/portal_frame": {
-    "criteria": {
-      "has_stone": "2025-07-21 05:35:22 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:pumpkin_sir": {
-    "criteria": {
-      "pumpkin_sir_0": "2025-07-21 05:46:20 +0000"
     },
     "done": true
   },
@@ -6440,39 +6374,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/henostone_stairs": {
-    "criteria": {
-      "has_planks": "2025-07-21 05:35:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
-    "criteria": {
-      "has_smooth_sandstone": "2025-07-21 06:27:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/sentry_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2025-07-21 07:36:31 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/guster": {
-    "criteria": {
-      "killed": "2025-07-21 05:29:21 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/magenta_terracotta": {
     "criteria": {
       "has_terracotta": "2025-07-21 05:56:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/henostone_wall": {
-    "criteria": {
-      "has_planks": "2025-07-21 05:35:22 +0000"
     },
     "done": true
   },
@@ -6482,27 +6386,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/henostone_pillar": {
-    "criteria": {
-      "has_planks": "2025-07-21 05:35:22 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/kangaroo": {
-    "criteria": {
-      "killed": "2025-07-21 05:29:35 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/gray_terracotta": {
     "criteria": {
       "has_terracotta": "2025-07-21 05:56:33 +0000"
-    },
-    "done": true
-  },
-  "cataclysm:find_cursed_pyramid": {
-    "criteria": {
-      "pyramid": "2025-07-21 06:20:20 +0000"
     },
     "done": true
   },
@@ -6515,6 +6401,120 @@
   "minecraft:recipes/building_blocks/brown_terracotta": {
     "criteria": {
       "has_terracotta": "2025-07-21 05:56:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_petrified_wood": {
+    "criteria": {
+      "has_stone": "2025-07-21 06:09:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/dune_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-07-21 06:17:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/dune_armor_trim_smithing_template": {
+    "criteria": {
+      "has_dune_armor_trim_smithing_template": "2025-07-21 06:17:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
+    "criteria": {
+      "has_cut_sandstone": "2025-07-21 06:17:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
+    "criteria": {
+      "has_cut_sandstone": "2025-07-21 06:17:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_glazed_terracotta": {
+    "criteria": {
+      "has_orange_terracotta": "2025-07-21 06:18:20 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_cursed_pyramid": {
+    "criteria": {
+      "pyramid": "2025-07-21 06:20:20 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:locate_ruined_pyramid": {
+    "criteria": {
+      "ruined_pyramid": "2025-07-21 06:22:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-07-21 06:24:30 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_dune_sentinel": {
+    "criteria": {
+      "ambusher": "2025-07-21 06:25:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_glazed_terracotta": {
+    "criteria": {
+      "has_blue_terracotta": "2025-07-21 06:25:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-07-21 06:27:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-07-21 06:27:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-07-21 06:27:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-07-21 06:27:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2025-07-21 07:33:38 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_overgrown_colossus": {
+    "criteria": {
+      "colossus": "2025-07-21 07:36:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template": {
+    "criteria": {
+      "has_sentry_armor_trim_smithing_template": "2025-07-21 07:36:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-07-21 07:36:31 +0000"
     },
     "done": true
   },
