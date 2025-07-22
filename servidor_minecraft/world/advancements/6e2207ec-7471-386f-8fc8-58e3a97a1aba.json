@@ -5393,6 +5393,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jack_o_lantern": {
+    "criteria": {
+      "has_carved_pumpkin": "2025-07-22 06:15:52 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/stomp_leafcutter_anthill": {
     "criteria": {
       "ex": "2025-07-22 04:40:25 +0000"
