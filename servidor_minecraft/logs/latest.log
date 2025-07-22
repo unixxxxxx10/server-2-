@@ -480,3 +480,6 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [22Jul2025 07:21:54.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur has completed the challenge [The One - Armed Monster]
 [22Jul2025 07:28:20.655] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved wrongly!
 [22Jul2025 07:39:13.396] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved wrongly!
+[22Jul2025 07:54:57.954] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xUNIx10[/127.16.30.111:37031] logged in with entity id 87733 at (855.9475488738093, 72.0, 1191.6451979015683)
+[22Jul2025 07:54:57.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 joined the game
+[22Jul2025 07:58:47.349] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xUNIx10 moved too quickly! -2.6570235538742963,25.75843557822094,-9.842788802079326
