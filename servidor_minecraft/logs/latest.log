@@ -291,3 +291,26 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [26Jul2025 06:31:14.175] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved wrongly!
 [26Jul2025 06:37:12.327] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved wrongly!
 [26Jul2025 06:48:20.025] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved wrongly!
+[26Jul2025 06:50:36.180] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[26Jul2025 06:50:36.180] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[26Jul2025 06:51:14.582] [Worker-Main-10/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[26Jul2025 06:51:14.583] [Worker-Main-10/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[26Jul2025 06:51:18.655] [Worker-Main-18/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[26Jul2025 06:51:18.656] [Worker-Main-18/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[26Jul2025 06:55:06.291] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[26Jul2025 06:55:06.292] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[26Jul2025 06:57:40.084] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved wrongly!
+[26Jul2025 06:59:56.521] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of zilasaur) moved too quickly! 9.037747915893988,-1.8230330397273065E-5,4.891241743103819
+[26Jul2025 06:59:56.523] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of zilasaur) moved too quickly! 9.79092352556495,-1.974952459704582E-5,5.299151415243614
+[26Jul2025 06:59:56.524] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of zilasaur) moved too quickly! 10.54409493887556,-2.1268718796818575E-5,5.70711879125497
+[26Jul2025 06:59:56.524] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of zilasaur) moved too quickly! 11.29726319801307,-2.278791299659133E-5,6.115140718012299
+[26Jul2025 06:59:56.524] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of zilasaur) moved too quickly! 12.050425335942236,-2.4307107196364086E-5,6.523221409361213
+[26Jul2025 06:59:56.525] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of zilasaur) moved too quickly! 12.803578687216714,-2.582630139613684E-5,6.931364514581219
+[26Jul2025 06:59:56.532] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of zilasaur) moved too quickly! 13.556720854274545,-2.7345495595909597E-5,7.339573193292836
+[26Jul2025 06:59:56.852] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of zilasaur) moved too quickly! -9.034357352399411,1.8230330397273065E-5,-4.896515506400874
+[26Jul2025 06:59:56.852] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of zilasaur) moved too quickly! -9.034357352399411,1.8230330397273065E-5,-4.896515506400874
+[26Jul2025 06:59:56.853] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of zilasaur) moved too quickly! -9.034357352399411,1.8230330397273065E-5,-4.896515506400874
+[26Jul2025 06:59:56.853] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of zilasaur) moved too quickly! -9.034357352399411,1.8230330397273065E-5,-4.896515506400874
+[26Jul2025 06:59:56.853] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of zilasaur) moved too quickly! -9.034357352399411,1.8230330397273065E-5,-4.896515506400874
+[26Jul2025 06:59:56.853] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of zilasaur) moved too quickly! -9.034357352399411,1.8230330397273065E-5,-4.896515506400874
+[26Jul2025 06:59:56.854] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of zilasaur) moved too quickly! -9.034357352399411,1.8230330397273065E-5,-4.896515506400874
