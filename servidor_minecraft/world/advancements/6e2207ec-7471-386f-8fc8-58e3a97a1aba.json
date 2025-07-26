@@ -5390,6 +5390,7 @@
   },
   "cataclysm:kill_all_bosses": {
     "criteria": {
+      "cataclysm:netherite_monstrosity": "2025-07-26 08:26:49 +0000",
       "cataclysm:ancient_remnant": "2025-07-21 07:10:37 +0000"
     },
     "done": false
@@ -6220,6 +6221,12 @@
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2025-07-26 08:14:00 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_monstrosity": {
+    "criteria": {
+      "netheritemonstrosity": "2025-07-26 08:26:49 +0000"
     },
     "done": true
   },

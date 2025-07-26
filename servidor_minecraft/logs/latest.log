@@ -328,3 +328,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [26Jul2025 08:15:20.506] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
 [26Jul2025 08:15:30.509] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zilasaur[/127.59.215.241:37579] logged in with entity id 60852 at (62.98249671098633, 37.24918707874468, 148.23607420721217)
 [26Jul2025 08:15:30.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur joined the game
+[26Jul2025 08:26:49.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur has completed the challenge [The Broken Nether's Warmachine]
+[26Jul2025 08:33:54.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur has made the advancement [Hidden in the Depths]
