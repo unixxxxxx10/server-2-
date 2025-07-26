@@ -351,3 +351,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [26Jul2025 09:02:54.940] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved wrongly!
 [26Jul2025 09:03:03.749] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved wrongly!
 [26Jul2025 09:04:31.151] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved wrongly!
+[26Jul2025 09:08:15.189] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur lost connection: Disconnected
+[26Jul2025 09:08:15.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur left the game
