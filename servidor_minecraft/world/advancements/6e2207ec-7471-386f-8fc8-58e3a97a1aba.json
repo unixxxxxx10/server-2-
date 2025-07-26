@@ -4491,6 +4491,7 @@
   },
   "prehistoricfauna:prehistoricfauna/general/extinction_event": {
     "criteria": {
+      "oviraptor": "2025-07-26 07:14:00 +0000",
       "pinacosaurus": "2025-07-19 05:15:50 +0000",
       "telmasaurus": "2025-07-19 05:14:55 +0000",
       "velociraptor": "2025-07-19 05:14:54 +0000",
@@ -5984,6 +5985,12 @@
   "minecraft:recipes/misc/flower_banner_pattern": {
     "criteria": {
       "has_oxeye_daisy": "2025-07-26 06:16:26 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/straddler": {
+    "criteria": {
+      "killed_by": "2025-07-26 07:11:58 +0000"
     },
     "done": true
   },
