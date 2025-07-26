@@ -330,3 +330,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [26Jul2025 08:15:30.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur joined the game
 [26Jul2025 08:26:49.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur has completed the challenge [The Broken Nether's Warmachine]
 [26Jul2025 08:33:54.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur has made the advancement [Hidden in the Depths]
+[26Jul2025 08:49:34.088] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved wrongly!
+[26Jul2025 08:49:42.828] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur moved wrongly!
