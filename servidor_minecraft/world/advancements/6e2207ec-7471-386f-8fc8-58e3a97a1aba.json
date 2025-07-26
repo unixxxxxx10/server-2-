@@ -5983,6 +5983,48 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-07-26 06:16:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-07-26 06:16:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_sunflower": "2025-07-26 06:16:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/recovery_compass": {
+    "criteria": {
+      "has_echo_shard": "2025-07-26 06:33:23 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/straddler": {
+    "criteria": {
+      "killed_by": "2025-07-26 07:11:58 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:my_size": {
+    "criteria": {
+      "my_size_0": "2025-07-26 07:27:08 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dark_blacksmith": {
+    "criteria": {
+      "dark_blacksmith_0": "2025-07-26 07:27:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/metasequoia_trapdoor": {
     "criteria": {
       "has_planks": "2025-07-26 08:03:39 +0000"
@@ -6001,15 +6043,51 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/warped_fence_gate": {
+  "minecraft:recipes/redstone/metasequoia_fence_gate": {
     "criteria": {
-      "has_planks": "2025-07-26 08:04:43 +0000"
+      "has_planks": "2025-07-26 08:03:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/metasequoia_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-26 08:03:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/metasequoia_fence": {
+    "criteria": {
+      "has_planks": "2025-07-26 08:03:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/metasequoia_button": {
+    "criteria": {
+      "has_planks": "2025-07-26 08:03:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/metasequoia_door": {
+    "criteria": {
+      "has_planks": "2025-07-26 08:03:39 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/warped_hyphae": {
     "criteria": {
       "has_log": "2025-07-26 08:04:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_planks": {
+    "criteria": {
+      "has_logs": "2025-07-26 08:04:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-26 08:04:43 +0000"
     },
     "done": true
   },
@@ -6037,21 +6115,9 @@
     },
     "done": true
   },
-  "born_in_chaos_v1:my_size": {
-    "criteria": {
-      "my_size_0": "2025-07-26 07:27:08 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/warped_door": {
     "criteria": {
       "has_planks": "2025-07-26 08:04:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/flower_banner_pattern": {
-    "criteria": {
-      "has_oxeye_daisy": "2025-07-26 06:16:26 +0000"
     },
     "done": true
   },
@@ -6061,57 +6127,9 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/straddler": {
-    "criteria": {
-      "killed_by": "2025-07-26 07:11:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/recovery_compass": {
-    "criteria": {
-      "has_echo_shard": "2025-07-26 06:33:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/metasequoia_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-07-26 08:03:39 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/warped_slab": {
     "criteria": {
       "has_planks": "2025-07-26 08:04:43 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:dark_blacksmith": {
-    "criteria": {
-      "dark_blacksmith_0": "2025-07-26 07:27:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
-    "criteria": {
-      "has_sunflower": "2025-07-26 06:16:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/metasequoia_stairs": {
-    "criteria": {
-      "has_planks": "2025-07-26 08:03:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/metasequoia_fence": {
-    "criteria": {
-      "has_planks": "2025-07-26 08:03:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/warped_planks": {
-    "criteria": {
-      "has_logs": "2025-07-26 08:04:27 +0000"
     },
     "done": true
   },
@@ -6121,21 +6139,87 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/metasequoia_button": {
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs": {
     "criteria": {
-      "has_planks": "2025-07-26 08:03:39 +0000"
+      "has_polished_blackstone": "2025-07-26 08:14:00 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_stonecutting": {
     "criteria": {
-      "has_oxeye_daisy": "2025-07-26 06:16:26 +0000"
+      "has_polished_blackstone": "2025-07-26 08:14:00 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/metasequoia_door": {
+  "minecraft:recipes/redstone/polished_blackstone_button": {
     "criteria": {
-      "has_planks": "2025-07-26 08:03:39 +0000"
+      "has_polished_blackstone": "2025-07-26 08:14:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab": {
+    "criteria": {
+      "has_polished_blackstone": "2025-07-26 08:14:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-07-26 08:14:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-07-26 08:14:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-07-26 08:14:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-07-26 08:14:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-07-26 08:14:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/polished_blackstone_pressure_plate": {
+    "criteria": {
+      "has_polished_blackstone": "2025-07-26 08:14:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-07-26 08:14:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone": "2025-07-26 08:14:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall": {
+    "criteria": {
+      "has_polished_blackstone": "2025-07-26 08:14:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-07-26 08:14:00 +0000"
     },
     "done": true
   },

@@ -322,3 +322,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [26Jul2025 07:11:58.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur has made the advancement [Straddle My Ol' Saddle]
 [26Jul2025 07:27:08.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur has reached the goal [Dark Blacksmith]
 [26Jul2025 07:27:08.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur has reached the goal [My Size!]
+[26Jul2025 08:15:20.435] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur was kicked for floating too long!
+[26Jul2025 08:15:20.436] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur lost connection: Flying is not enabled on this server
+[26Jul2025 08:15:20.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur left the game
+[26Jul2025 08:15:20.506] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[26Jul2025 08:15:30.509] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zilasaur[/127.59.215.241:37579] logged in with entity id 60852 at (62.98249671098633, 37.24918707874468, 148.23607420721217)
+[26Jul2025 08:15:30.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur joined the game
